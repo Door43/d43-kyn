@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyn:home|Door43 (kyn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyn|d43-kyn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyn/archive/master.zip|d43-kyn.zip]]
+
+**Recent Changes**
+{{changes>ns = kyn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyn|Ethnologue data]]
+
